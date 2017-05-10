@@ -182,3 +182,7 @@ var datosActualizarAdm;
 			}
 			
 	});
+
+function alert(div, mesagge){
+	alert(message);
+}
